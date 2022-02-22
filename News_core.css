@@ -1,0 +1,27 @@
+.Newscore {
+    display: flex;
+    background-color: rgba(92, 91, 91, 0.726);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 20px 20px 20px;
+    gap: 20px;
+    align-items: center;
+    border-radius: 10px;
+    width: 1460px;
+
+}
+
+.Newscore:hover {
+    background-color: rgb(224, 211, 211);
+}
+
+.Upvote {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 40px;
+}
+
+.text {
+    flex-grow: 1 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
