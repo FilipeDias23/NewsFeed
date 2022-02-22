@@ -21,7 +21,10 @@
     padding-top: 40px;
 }
 
-.text {
+.Text {
     flex-grow: 1 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Text h1 {
+    color: rgb(47, 81, 143);
 }
